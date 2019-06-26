@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        echo 'Build Unix Files'
+        echo 'echo Building %BRANCH_NAME%'
       }
     }
   }
