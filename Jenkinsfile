@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        echo 'Build Unix Files'
+        echo env.BRANCH_NAME
       }
     }
   }
