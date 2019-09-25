@@ -20,3 +20,4 @@ test cq pat deliver
 2016.02.07 denise test table failure
 2016.03.11 denise full record 1 multi
 2018.12.02 denise test partial and multi usr cq state changes
+2019.09.24 make one change in DEV and prmote up
