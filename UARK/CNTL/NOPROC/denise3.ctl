@@ -27,4 +27,4 @@ Jirong code clean 5
 2019.10.10 verify python code
 2019.10.10 verify python code, update Jenkins admin token
 CSRF Protection
-token
+update jenkins token
