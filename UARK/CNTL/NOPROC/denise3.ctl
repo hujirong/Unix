@@ -25,3 +25,4 @@ Jirong code clean 5
 2016.03.11 test partial with message
 2018.12.02 test unix full states
 2019.10.10 verify python code
+2019.10.10 verify python code, update Jenkins admin token
